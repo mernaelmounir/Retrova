@@ -13,7 +13,7 @@ The project emphasizes visual identity, UX/UI design, and brand language, transl
 - **Salma Ahmed Mohammed Awadallah** → Social Media Designer (creates posts and campaign visuals )
 - **Alaa Magdy Ahmed Mohamed** → Illustrator ( creates hand-drawn elements , icons and sketches )
 - **Mohamed Ashraf Zakria Hassnen** → Brand Designer (develops logos, colors, typography, identity system)
-- **khaled Ramadan Ahmed** → Motion Graphics Designer ( creates animated posts , reels and transitions)
+- **khaled Ramadan Ahmed Ahmed** → Motion Graphics Designer ( creates animated posts, reels and transitions)
 <hr></hr>
 
 ## Instructor 
