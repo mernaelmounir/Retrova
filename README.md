@@ -17,10 +17,9 @@ The project emphasizes visual identity, UX/UI design, and brand language, transl
 * **Khaled Ramadan Ahmed Ahmed** – Motion Graphics Designer *(creates animated posts, reels and transitions)*
 
 ---
-
+<h1><a href ="https://drive.google.com/drive/folders/1uk76wlIEVnc0xSBQmHQmZJCXzfOMiEql?hl=ar" > FINAL PRESENTATION <a></a><h1>
+  
 ## Instructor
-
 * **Eng. Abir Ismail**
-
-<hr></hr>
 <a href ="https://drive.google.com/drive/folders/1dI3415drXZRxXXbN7b41k3MOmLyBStp5?usp=sharing" > google drive link <a>
+
